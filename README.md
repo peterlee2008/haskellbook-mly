@@ -2,6 +2,8 @@
 
 This is a repository for collaboratively working through exercises from [Haskell Programming From First Principles](http://haskellbook.com).
 
+> The book can be purchased through [Gumroad](https://gumroad.com/l/haskellbook)
+
 ## What
 The idea is to work through all the exercises in the book and learn a some Haskell. Yo, Haskell is no joke so the estimated effort is ~6-10h per week :wink:.
 
