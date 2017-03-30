@@ -32,3 +32,4 @@ source/
 Folks taking part in this endeavour:
 * [knikel](http://github.com/knikel)
 * [ptpt](http://github.com/ptpt)
+* [jesolem](http://github.com/jesolem)
