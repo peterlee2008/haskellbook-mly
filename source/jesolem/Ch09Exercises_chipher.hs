@@ -5,6 +5,7 @@ import Data.Char
 shiftChar :: Int -> Char -> Char
 shiftChar shift x
   | shift == 0 = x
+  | x == ' ' = x
   | (ordx + shift) < orda = chr ((ordx + 26 + shift) `mod` orda + orda)
   | otherwise = chr ((ordx + shift) `mod` orda + orda)
   where
