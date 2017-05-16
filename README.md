@@ -17,17 +17,12 @@ Ping @knikel in the **#fp** Slack channel that you'd like to take part **before 
 
 ```
 source/
-  - Chapter01/
-    - github_username1/
-      - Ch02Exercise01....hs
-      - Ch02Exercise02....hs
+  - github_username
+    - Chapter*/
+      - Ch*Exercise01....hs
+      - Ch*Exercise02....hs
       - SpecificFilenameAskedInTheBook.hs
       ...
-  - Chapter02/
-    - github_username2/
-      - Ch02Exercise01...hs
-      ...
-
 ```
 
 ## Who
