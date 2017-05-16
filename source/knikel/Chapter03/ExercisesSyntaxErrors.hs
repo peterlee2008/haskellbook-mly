@@ -1,0 +1,3 @@
+-- 1. No, ++ has to be applied to following arguments
+-- 2. '' can be only, but around Chars not [Char]. Swap ' to " and it's all good
+-- 3. Yes

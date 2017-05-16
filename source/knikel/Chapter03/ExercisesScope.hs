@@ -1,0 +1,4 @@
+-- 1. Yes
+-- 2. No, h is not in scope
+-- 3. No, d is not in scope
+-- 4. 
