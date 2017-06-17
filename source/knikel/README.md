@@ -1,5 +1,19 @@
 > Add stuff from before here
 
+## Chapter 10
+
+### Exercises: Database Processing
+See [Ch10DatabaseProcessing.hs](https://github.com/knikel/haskellbook-mly/tree/master/source/knikel/Chapter10/Ch10DatabaseProcessing.hs)
+
+### Scans Exercises
+See [Ch10ScansExercises.hs](https://github.com/knikel/haskellbook-mly/tree/master/source/knikel/Chapter10/Ch10ScansExercises.hs)
+
+### 10.10 Chapter Exercises
+#### Warm-up and review
+See [Ch10WarmUp](https://github.com/knikel/haskellbook-mly/tree/master/source/knikel/Chapter10/Ch10WarmUp.hs)
+#### Rewriting functions using folds
+See [Ch10WithFolds.hs](https://github.com/knikel/haskellbook-mly/tree/master/source/knikel/Chapter10/Ch10WithFolds.hs)
+
 ## Chapter 11
 ### 11.18 Chapter Exercises
 #### Multiple Choice
