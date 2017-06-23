@@ -11,7 +11,10 @@ salt shift x = atoz !! mod ((ord x - orda) + shift) span where
   span = length atoz
   atoz = ['a'..'z']
 
+caesar :: String -> Int -> String
 caesar xs shift = map (salt shift) xs
+
+unCaesar :: String -> Int -> String
 unCaesar xs shift = map (salt $ negate shift) xs
 
 splitAtChar :: String -> Char -> [String]
@@ -30,7 +33,9 @@ mapSalt xs word = intercalate " " $ go splitted cycled 0 where
     sLen = length s
     nextCyc = drop seenChars cyc
 
+vigenere :: String -> String -> String
 vigenere xs w = concat $ zipWith (\a b -> caesar [a] b) xs $ map ord $ mapSalt xs w
+unVigenere :: String -> String -> String
 unVigenere xs w = concat $ zipWith (\a b -> unCaesar [a] b) xs $ map ord $ mapSalt xs w
 
 testMapping :: IO ()

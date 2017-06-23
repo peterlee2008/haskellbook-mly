@@ -58,3 +58,26 @@ See [Ch12Unfolds.hs](https://github.com/knikel/haskellbook-mly/tree/master/sourc
 
 ### Finally something other than a list!
 See [Ch12NonList.hs](https://github.com/knikel/haskellbook-mly/tree/master/source/knikel/Chapter12/Ch12NonList.hs)
+
+## Chapter 13
+### Intermission: Check your understanding
+
+1. `forever` and `when`
+2. `Data.Bits` and `Database.Blacktip.Types`
+3. It brings the types :upsidedown_face:
+4.
+    - `MV`, `FPC` and `CC`
+    - `Filesystem` imported as `FS`
+    - `Control.Monad`
+
+### Chapter exercises
+#### Hangman game logic
+See [Main.hs](https://github.com/knikel/haskellbook-mly/tree/master/source/knikel/Chapter13/hangman/src/Main.hs)
+* Added accumulation of incorrect guesses
+* Added max incorrect guess config
+
+#### Modyfing code
+1. [Ciphers](https://github.com/knikel/haskellbook-mly/tree/master/source/knikel/Chapter13/hangman/src/Main.hs)
+2. [exitSuccess](https://github.com/knikel/haskellbook-mly/tree/master/source/knikel/Chapter13/ExModyfyingCode2/.hs)
+3. [Palindrome IO](https://github.com/knikel/haskellbook-mly/tree/master/source/knikel/Chapter13/ExModyfyingCode3.hs)
+4. [gimmePerson](https://github.com/knikel/haskellbook-mly/tree/master/source/knikel/Chapter13/ExModifyingCode4.hs)
