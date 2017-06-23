@@ -76,8 +76,8 @@ See [Main.hs](https://github.com/knikel/haskellbook-mly/tree/master/source/knike
 * Added accumulation of incorrect guesses
 * Added max incorrect guess config
 
-#### Modyfing code
+#### Modifying code
 1. [Ciphers](https://github.com/knikel/haskellbook-mly/tree/master/source/knikel/Chapter13/hangman/src/Main.hs)
-2. [exitSuccess](https://github.com/knikel/haskellbook-mly/tree/master/source/knikel/Chapter13/ExModyfyingCode2/.hs)
+2. [exitSuccess](https://github.com/knikel/haskellbook-mly/tree/master/source/knikel/Chapter13/ExModyfyingCode2.hs)
 3. [Palindrome IO](https://github.com/knikel/haskellbook-mly/tree/master/source/knikel/Chapter13/ExModyfyingCode3.hs)
 4. [gimmePerson](https://github.com/knikel/haskellbook-mly/tree/master/source/knikel/Chapter13/ExModifyingCode4.hs)
