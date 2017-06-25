@@ -82,7 +82,7 @@ See [Main.hs](https://github.com/knikel/haskellbook-mly/tree/master/source/knike
 3. [Palindrome IO](https://github.com/knikel/haskellbook-mly/tree/master/source/knikel/Chapter13/ExModyfyingCode3.hs)
 4. [gimmePerson](https://github.com/knikel/haskellbook-mly/tree/master/source/knikel/Chapter13/ExModifyingCode4.hs)
 
-### Chapter 14
+## Chapter 14
 ### Chapter exercises
 1. [Validating numbers into words](https://github.com/knikel/haskellbook-mly/tree/master/source/knikel/Chapter14/ch14-ex/test/Spec.hs)
 2. [Using QuickCheck](https://github.com/knikel/haskellbook-mly/tree/master/source/knikel/Chapter14/ch14-ex/test/Spec.hs)

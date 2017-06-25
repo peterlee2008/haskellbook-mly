@@ -1,3 +1,4 @@
+--
 -- Validating numbers into words
 
 import Test.Hspec
@@ -27,6 +28,7 @@ main = hspec $ do
     it "nine-zero-zero-one given 9001" $ do
       wordNumber 9001 `shouldBe` "nine-zero-zero-one"
 
+--
 -- Using QuickCheck
   describe "Using QuickCheck" $ do
     it "1. half" $ do
@@ -79,7 +81,6 @@ prop_listOrdered :: (Ord a) => [a] -> Bool
 prop_listOrdered xs = listOrdered $ sort xs
 
 -- 3.
-
 plusAssociative :: (Eq a, Num a) => a -> a -> a -> Bool
 plusAssociative x y z = x + (y + z) == (x + y) + z
 
@@ -118,7 +119,6 @@ divModLaw x y = y == 0 || (div x y) * y + (mod x y) == x
 prop_divModLaw :: (Eq a, Integral a) => (a, a) -> Bool
 prop_divModLaw (x, y) = divModLaw x y
 
-
 -- 6.
 powAssociative :: (Eq a, Integral a) => a -> a -> a -> Bool
 powAssociative x y z = (x ^ y) ^ z == x ^ (y ^ z)
@@ -126,11 +126,11 @@ powAssociative x y z = (x ^ y) ^ z == x ^ (y ^ z)
 prop_powAssociative :: (Eq a, Integral a) => (a, a, a) -> Bool
 prop_powAssociative (x, y, z) = powAssociative x y z
 
-powNotCommutative :: (Eq a, Integral a) => a -> a -> Bool
-powNotCommutative x y = x ^ y == y ^ x
+powCommutative :: (Eq a, Integral a) => a -> a -> Bool
+powCommutative x y = x ^ y == y ^ x
 
 prop_powCommutative :: (Eq a, Integral a) => (a, a) -> Bool
-prop_powCommutative (x, y) = powNotCommutative x y
+prop_powCommutative (x, y) = powCommutative x y
 
 -- 7.
 
@@ -167,6 +167,7 @@ capitalizeWord xs = xs
 -- TODO: f x = (capitalizeWord x == twice capitalizeWord x) == fourTimes capitalizeWord x
 -- TODO: f x = (sort x == twice sort x) == (fourTimes sort x)
 
+--
 -- Make a Gen random generator for the datatype
 
 data Fool =
