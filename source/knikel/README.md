@@ -89,3 +89,16 @@ See [Main.hs](https://github.com/knikel/haskellbook-mly/tree/master/source/knike
 3. [Make a Gen random generator for the datatype](https://github.com/knikel/haskellbook-mly/tree/master/source/knikel/Chapter14/ch14-ex/test/Spec.hs)
 4. [Hangman tests]() - `TODO`
 5. [Validating ciphers]() - `TODO`
+
+## Chapter 15
+### Optional Monoid
+See [`Ch15OptionalMonoid.hs`](https://github.com/knikel/haskellbook-mly/tree/master/source/knikel/Chapter15/Ch15OptionalMonoid.hs)
+### Madness
+See [`Ch15Madness.hs`](https://github.com/knikel/haskellbook-mly/tree/master/source/knikel/Chapter15/Ch15Madness.hs)
+### Maybe Another Monoid
+See [`Ch15MaybeAnotherMonoid.hs`](https://github.com/knikel/haskellbook-mly/tree/master/source/knikel/Chapter15/Ch15MaybeAnotherMonoid.hs)
+### Chapter Exercises
+#### Semigroup exercises
+See [`Ch15SemigroupExercises.hs`](https://github.com/knikel/haskellbook-mly/tree/master/source/knikel/Chapter15/Ch15SemigroupExercises.hs) **Unfinished**
+#### Monoid exercises
+See [`Ch15MonoidExercises.hs`](https://github.com/knikel/haskellbook-mly/tree/master/source/knikel/Chapter15/Ch15MonoidExercises.hs). **Unfinished**
