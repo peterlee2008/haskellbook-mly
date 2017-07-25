@@ -102,3 +102,9 @@ See [`Ch15MaybeAnotherMonoid.hs`](https://github.com/knikel/haskellbook-mly/tree
 See [`Ch15SemigroupExercises.hs`](https://github.com/knikel/haskellbook-mly/tree/master/source/knikel/Chapter15/Ch15SemigroupExercises.hs) **Unfinished**
 #### Monoid exercises
 See [`Ch15MonoidExercises.hs`](https://github.com/knikel/haskellbook-mly/tree/master/source/knikel/Chapter15/Ch15MonoidExercises.hs). **Unfinished**
+
+## Chapter 16
+### Be Kind
+See [`Ch16BeKind.hs`](source/knikel/Chapter16/Ch16BeKind.hs)
+### Heavy Lifting
+See [`Ch16HeavyLifting`](source/knikel/Chapter16/Ch16HeavyLifting.hs)
