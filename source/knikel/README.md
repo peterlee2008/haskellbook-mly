@@ -108,3 +108,11 @@ See [`Ch15MonoidExercises.hs`](https://github.com/knikel/haskellbook-mly/tree/ma
 See [`Ch16BeKind.hs`](source/knikel/Chapter16/Ch16BeKind.hs)
 ### Heavy Lifting
 See [`Ch16HeavyLifting`](source/knikel/Chapter16/Ch16HeavyLifting.hs)
+### Possibly
+See [`Ch16Possibly.hs`](source/knikel/Chapter16/Ch16Possibly.hs)
+### Instances Of Func
+See [`Ch16InstancesOfFunc`](source/knikel/Chapter16/Ch16InstancesOfFunc.hs)
+### Short Exercise: Sum
+See [`Ch16ShortExerciseSum.hs`](source/knikel/Chapter16/Ch16ShortExerciseSum.hs)
+### Chapter Exercises
+See [`Ch16ChapterExercises.hs`](source/knikel/Chapter16/Ch16ChapterExercises.hs)
