@@ -116,3 +116,11 @@ See [`Ch16InstancesOfFunc`](Chapter16/Ch16InstancesOfFunc.hs)
 See [`Ch16ShortExerciseSum.hs`](Chapter16/Ch16ShortExerciseSum.hs)
 ### Chapter Exercises
 See [`Ch16ChapterExercises.hs`](Chapter16/Ch16ChapterExercises.hs)
+
+## Chapter 17
+### Lookups
+See [`Ch17Lookups.hs`](Chapter17/Ch17Lookups.hs)
+### Identity Instance
+See [`Ch17IdentityInstance`](Chapter17/Ch17IdentityInstance.hs)
+### Constant Instance
+See [`Ch17ConstantInstance`](Chapter17/Ch17ConstantInstance.hs)
