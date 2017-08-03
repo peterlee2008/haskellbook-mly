@@ -124,3 +124,9 @@ See [`Ch17Lookups.hs`](Chapter17/Ch17Lookups.hs)
 See [`Ch17IdentityInstance`](Chapter17/Ch17IdentityInstance.hs)
 ### Constant Instance
 See [`Ch17ConstantInstance`](Chapter17/Ch17ConstantInstance.hs)
+### Fixer Upper
+See [`Ch17FixerUpper.hs`](Chapter17/Ch17FixerUpper.hs)
+### List Applicative
+See [`Ch17ExListApplicative`](Chapter17/Ch17ExListApplicative)
+### ZipList Applicative
+See [`Ch17ExZipListApplicative`](Chapter17/Ch17ExZipListApplicative.hs)
