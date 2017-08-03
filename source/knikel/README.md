@@ -138,3 +138,9 @@ See [`Ch17ChapterExercises.hs`](Chapter17/Ch17ChapterExercises.hs)
 See [`Ch17ChapterExercises.hs`](Chapter17/Ch17ChapterExercises.hs)
 #### Combinations
 See [`Ch17Combinations.hs`](Chapter17/Ch17Combinations.hs)
+
+
+## Chapter 18
+### The novel part of Monad
+Bind in terms of `join` and `fmap`.
+See [`Ch18Bind.hs`](Chapter18/Ch18Bind.hs)
