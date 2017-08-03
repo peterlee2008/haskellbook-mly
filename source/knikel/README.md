@@ -130,3 +130,11 @@ See [`Ch17FixerUpper.hs`](Chapter17/Ch17FixerUpper.hs)
 See [`Ch17ExListApplicative`](Chapter17/Ch17ExListApplicative)
 ### ZipList Applicative
 See [`Ch17ExZipListApplicative`](Chapter17/Ch17ExZipListApplicative.hs)
+### Chapter Exercises
+#### Specialize the types
+See [`Ch17ChapterExercises.hs`](Chapter17/Ch17ChapterExercises.hs)
+#### Write Applicative instances
+- TODO: Validate instances with `checkers` lib
+See [`Ch17ChapterExercises.hs`](Chapter17/Ch17ChapterExercises.hs)
+#### Combinations
+See [`Ch17Combinations.hs`](Chapter17/Ch17Combinations.hs)
