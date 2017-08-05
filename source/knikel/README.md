@@ -144,3 +144,5 @@ See [`Ch17Combinations.hs`](Chapter17/Ch17Combinations.hs)
 ### The novel part of Monad
 Bind in terms of `join` and `fmap`.
 See [`Ch18Bind.hs`](Chapter18/Ch18Bind.hs)
+### Either Monad
+See [`Ch18ExEitherMonad.hs`](Chapter18/Ch18ExEitherMonad.hs)
