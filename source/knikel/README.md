@@ -146,3 +146,8 @@ Bind in terms of `join` and `fmap`.
 See [`Ch18Bind.hs`](Chapter18/Ch18Bind.hs)
 ### Either Monad
 See [`Ch18ExEitherMonad.hs`](Chapter18/Ch18ExEitherMonad.hs)
+### Chapter Exercises
+#### `Monad` instances
+See [`Ch18ExMonadInstances.hs`](Chapter18/Ch18ExMonadInstances.hs)
+#### Functions using `Monad` and `Applicative` methods
+See [`Ch18ExFunctionsWithMethods`](Chapter18/Ch18ExFunctionsWithMethods.hs)
