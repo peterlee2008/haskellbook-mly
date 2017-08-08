@@ -151,3 +151,9 @@ See [`Ch18ExEitherMonad.hs`](Chapter18/Ch18ExEitherMonad.hs)
 See [`Ch18ExMonadInstances.hs`](Chapter18/Ch18ExMonadInstances.hs)
 #### Functions using `Monad` and `Applicative` methods
 See [`Ch18ExFunctionsWithMethods`](Chapter18/Ch18ExFunctionsWithMethods.hs)
+
+## Chapter 20
+### Library Functions
+See [`Ch20LibraryFunctions.hs`](Chapter20/Ch20LibraryFunctions.hs)
+### Chapter Exercises
+See [`Ch20ChapterExercises.hs`](Chapter20/Ch20ChapterExercises.hs)
