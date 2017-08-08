@@ -1,3 +1,3 @@
-Scratch.hs
 .stack-work/
-source/knikel/Chapter13/hangman/data/
+source/knikel/**/*.hs
+!source/knikel/**/Ch[0-9][0-9]*.hs
