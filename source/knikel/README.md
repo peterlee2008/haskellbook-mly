@@ -157,3 +157,8 @@ See [`Ch18ExFunctionsWithMethods`](Chapter18/Ch18ExFunctionsWithMethods.hs)
 See [`Ch20LibraryFunctions.hs`](Chapter20/Ch20LibraryFunctions.hs)
 ### Chapter Exercises
 See [`Ch20ChapterExercises.hs`](Chapter20/Ch20ChapterExercises.hs)
+
+## Chapter 21
+### Chapter Exercises
+#### Traversable instances
+See [`Ch21ExTraversableInstances.hs`](Chapter21/Ch21ExTraversableInstances.hs)
