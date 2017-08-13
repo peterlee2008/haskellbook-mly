@@ -173,7 +173,7 @@ See [`Ch22ExReadingComprehension.hs`](Chapter22/Ch22ExReadingComprehension.hs)
 ### Reader Monad
 See [`Ch22ExReaderMonad.hs`](Chapter22/Ch22ExReaderMonad.hs)
 ### Chapter Exercises
-### A warm-up stretch
+#### A warm-up stretch
 See [`Ch22ExChapterExercises.hs`](Chapter22/Ch22ExChapterExercises.hs)
-### Rewriting shawty
+#### Rewriting shawty
 **TODO**
