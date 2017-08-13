@@ -162,3 +162,18 @@ See [`Ch20ChapterExercises.hs`](Chapter20/Ch20ChapterExercises.hs)
 ### Chapter Exercises
 #### Traversable instances
 See [`Ch21ExTraversableInstances.hs`](Chapter21/Ch21ExTraversableInstances.hs)
+
+## Chapter 22
+### Short Exercise: Warming Up
+See [`Ch22ExWarmingUp.hs`](Chapter22/Ch22ExWarmingUp.hs)
+### Ask
+See [`Ch22ExAsk.hs`](Chapter22/Ch22ExAsk.hs)
+### Reading Comprehensions
+See [`Ch22ExReadingComprehension.hs`](Chapter22/Ch22ExReadingComprehension.hs)
+### Reader Monad
+See [`Ch22ExReaderMonad.hs`](Chapter22/Ch22ExReaderMonad.hs)
+### Chapter Exercises
+### A warm-up stretch
+See [`Ch22ExChapterExercises.hs`](Chapter22/Ch22ExChapterExercises.hs)
+### Rewriting shawty
+**TODO**
