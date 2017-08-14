@@ -177,3 +177,16 @@ See [`Ch22ExReaderMonad.hs`](Chapter22/Ch22ExReaderMonad.hs)
 See [`Ch22ExChapterExercises.hs`](Chapter22/Ch22ExChapterExercises.hs)
 #### Rewriting shawty
 **TODO**
+
+## Chapter 23
+### Roll your own
+See [`Ch23ExRollYourOwn.hs`](Chapter23/Ch23ExRollYourOwn.hs)
+
+### Moi
+See [`Ch23ExMoi.hs`](Chapter23/Ch23ExMoi.hs)
+
+### FizzBuzz
+**TODO**
+
+### Chapter Exercises
+**TODO**
