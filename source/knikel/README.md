@@ -190,3 +190,12 @@ See [`Ch23ExMoi.hs`](Chapter23/Ch23ExMoi.hs)
 
 ### Chapter Exercises
 **TODO**
+
+## Chapter 24
+### ParsingPractice
+See [`Ch24ParsingPractice.hs`](Chapter24/Ch24ParsingPractice.hs)
+
+**TODO**
+
+### Unit of Success
+See [`Ch24ExUnitOfSuccess.hs`](Chapter24/Ch24ExUnitOfSuccess.hs)
